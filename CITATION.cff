@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: playful-planets
+message: have fun
+type: software
+authors:
+  - given-names: Aleksa
+    family-names: Lakic
+    name-particle: H
+    name-suffix: Hydrogen
+identifiers:
+  - type: doi
+    value: 10.5072/zenodo.491769
+repository-code: 'https://github.com/aleksa23q/playful-planets'
+abstract: playful planets
+license: CC-BY-4.0
